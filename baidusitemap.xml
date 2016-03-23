@@ -3,25 +3,10 @@
 
 
     
-  <url>
-    <loc>http://www.qisehuanxiang.xyz/2016/03/20/hello-world/</loc>
-    <lastmod>2016-03-22T13:03:20.513Z</lastmod>
-    <data>
-        <display>
-        <title>Hello World</title>
-        <pubTime>2016-03-20T12:07:37.506Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
     
   <url>
     <loc>http://www.qisehuanxiang.xyz/2016/03/21/%E5%B9%BB%E6%83%B3%E9%83%B7%E3%82%88%E3%82%8A%20%EF%BD%9E%E5%B9%BB%E6%83%B3%E9%84%89%E8%A6%8B%E8%81%9E%E9%8C%84/</loc>
-    <lastmod>2016-03-21T15:24:28.045Z</lastmod>
+    <lastmod>2016-03-23T15:07:36.941Z</lastmod>
     <data>
         <display>
         <title>幻想郷より ～幻想鄉見聞錄</title>
@@ -34,8 +19,23 @@
          
            
              
-              <breadCrumb title="comic" url="http://www.qisehuanxiang.xyz/categories/comic/"/>
+              <breadCrumb title="touhou" url="http://www.qisehuanxiang.xyz/categories/touhou/"/>
           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.qisehuanxiang.xyz/2016/03/20/hello-world/</loc>
+    <lastmod>2016-03-22T13:03:20.513Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2016-03-20T12:07:37.506Z</pubTime>
+        
+         
+           
         </display>
     </data>
     </url>
